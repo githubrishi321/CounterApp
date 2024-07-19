@@ -1,2 +1,7 @@
 # CounterApp
-counter app using HTML5,TAILWIND CSS,JAVASCRIPT.
+
+A simple counter application built using HTML, Tailwind CSS, and JavaScript.
+
+Features
+Increment and decrement the counter
+Responsive design
